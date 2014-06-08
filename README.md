@@ -11,3 +11,12 @@ APK files because I did not want that bloatware for myself.
 
 I cannot test this ROM edit because my Kindle Fire is broken, unfourtanetly. I would
 love to know if it works, though.
+
+
+
+I will not post the pre-build source code because this is a modification of the post-build flashable .zip and there is no point in posting it because of that. You can find the source code used by the original builder at these links:
+
+https://github.com/loosethisskin
+https://github.com/sgt7
+https://github.com/KFire-Android
+https://github.com/CyanogenMod
